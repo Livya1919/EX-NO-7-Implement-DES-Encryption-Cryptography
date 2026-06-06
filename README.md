@@ -43,6 +43,7 @@ int main(){
 
 
 ## Output:
+<img width="433" height="205" alt="image" src="https://github.com/user-attachments/assets/bbafeea7-1f3d-495d-a1fb-1709a07d52f4" />
 
 
 
